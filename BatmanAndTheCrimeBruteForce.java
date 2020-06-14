@@ -9,6 +9,9 @@ import java.util.Map;
  *
  * @author Aman
  */
+
+// Time Complexity : O(V * (V + E) + C) , where E is number of edges, V is number of nodes and C is number of queries.
+
 public class BatmanAndTheCrimeBruteForce {
 
     public static void main(String[] args) {
