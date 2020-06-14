@@ -11,6 +11,9 @@ import java.util.PriorityQueue;
  *
  * @author Aman
  */
+
+// Time Complexity : O(E * log(V) + C) , where E is number of edges, V is number of nodes and C is number of queries.
+
 public class BatmanAndTheCrime {
 
     public static void main(String[] args) {
